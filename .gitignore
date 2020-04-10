@@ -5,3 +5,4 @@ node_modules
 coverage
 tunnel.log
 test-server.log
+/test-report/
